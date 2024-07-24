@@ -1,4 +1,4 @@
-##Checkout my Excel Projects⬇️<br/>
+#Checkout my Excel Projects⬇️<br/>
 1. Bike Sales - Project 1<br/><br/>
    I have worked on cleaning bike sales data, formatted it, added new columns and created pivot tables to easily visualize bike sales in the form of graphs like line and bar charts. Used slicers to dynamically
    update the data for quick analysis. This did give me some major insights into bike sales on how avergae salary of user, age bracket and commute to work place increased the bike sales. This surely with help
