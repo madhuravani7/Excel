@@ -1,6 +1,6 @@
 # Checkout my Excel Projects⬇️<br/>
 * Investment Performance - Finance<br><br>
-  This Power BI dashboard provides a comprehensive analysis of investment performance across regions (APAC, EMEA, LATAM, NA) and asset classes (Bonds, Commodities, Equities, Mutual Funds, Real Estate). Key 
+  This Excel BI dashboard provides a comprehensive analysis of investment performance across regions (APAC, EMEA, LATAM, NA) and asset classes (Bonds, Commodities, Equities, Mutual Funds, Real Estate). Key 
   insights include:<br/>
      Average Net Return across all investments<br/>
      Risk-adjusted returns by region<br/>
