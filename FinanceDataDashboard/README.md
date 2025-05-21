@@ -1,6 +1,4 @@
 * Finance Data - Finance<br/><br/>
-   Here with this data I found how many females and males are investing, their preferred investment duration, factors considered when investing, ranking different investment options, their main purpose of 
-   investment, their investment avenue choice and more. Learnt quite a few things from this dataset. Also, created customer slicers, maintained same aesthetic throughout the dashboard, used charts, inserted
-   images, and more. <br/><br/>
+In this project, I analyzed investment behavior data to uncover insights such as gender-based investment trends, preferred investment durations, key decision-making factors, and the ranking of various investment options. I also explored the primary purposes behind investments and the most commonly chosen investment avenues. The dashboard was designed with a consistent visual theme, incorporating custom slicers, informative charts, and relevant images to enhance user engagement. This project not only deepened my understanding of investor behavior but also strengthened my skills in designing clean, insight-driven dashboards. <br/><br/>
    Final Dashboard ⬇ <br/><br/>
    ![financeData](https://github.com/user-attachments/assets/0e110050-d6f7-43a5-bb29-167bb9e96928)<br/><br/>
