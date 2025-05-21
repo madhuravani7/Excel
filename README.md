@@ -10,13 +10,6 @@
   Designed with slicers for dynamic filtering by Region, Year, and Asset Class, this dashboard supports data-driven investment decisions through clear visuals and comparative metrics.<br/><br/>
   Final Dashboard ⬇ <br/><br/>
   ![Image](https://github.com/user-attachments/assets/8fe32a21-8639-4225-ba64-0e147bafd55f)
-
-* Expense Tracker - Expenses<br/><br/>
-   I developed an Excel-based expense tracker designed to simplify financial management, particularly for individuals managing multiple cards. The tracker features an intuitive interface with automated data
-   validation, pre-defined categories, and an interactive dashboard that includes dynamic PivotTables, slicers, and timelines. These tools allow users to track and analyze their expenses in real-time without
-   needing advanced Excel skills. The tracker has been tested in real-world scenarios, proving especially useful for logging and monitoring specific expenses efficiently. <br/><br/>
-   Final Dashboard ⬇ <br/><br/>
-   ![ExpenseTracker](https://github.com/user-attachments/assets/d7a59e69-2b13-48c2-8b03-644f2b82fa50)<br/><br/>
    
 * Finance Data - Finance<br/><br/>
    Here with this data I found how many females and males are investing, their preferred investment duration, factors considered when investing, ranking different investment options, their main purpose of 
