@@ -1,6 +1,4 @@
 * Coffee Bean Sales - Sales<br/><br/>
-   This time I went a little further and used timeline to dynamically select certain period of the year to see how the sales did. I also, used slicer and connected all of them to the pivot tables created. I
-   majorly concentrated on finding the top countries, toP customers, sales over time which actually are important in this dataset. I found United States to be top consumer of coffee from the dataset with very
-   high sales compared to other countries. I also created custom slicers and timeline design to follow certain colour palette.<br/><br/>
+For this project, I took the analysis a step further by incorporating a timeline filter to dynamically select specific periods and evaluate sales performance throughout the year. I used slicers, connecting them across multiple pivot tables for cohesive, interactive filtering. The focus of my analysis was to identify top-performing countries, key customers, and sales trends over time—critical insights within this dataset. Notably, I discovered that the United States was the leading consumer, showing significantly higher coffee sales compared to other countries. I also customized the slicers and timeline design to align with a consistent color palette, enhancing the dashboard’s visual appeal and user experience.<br/><br/>
    Final dashboard ⬇ <br/><br/>
    ![CoffeeBeanSalesdb](https://github.com/user-attachments/assets/8b78a583-45fe-4308-ae64-d5aeecd84dc4)<br/><br/>
