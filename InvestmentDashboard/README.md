@@ -1,15 +1,15 @@
 * Investment Performance - Finance<br><br>
  This Excel BI dashboard delivers a comprehensive analysis of investment performance across key regions—APAC, EMEA, LATAM, and North America—and asset classes including Bonds, Commodities, Equities, Mutual Funds, and Real Estate. The dashboard highlights critical insights such as:
 
-Average net return across all investments
+    * Average net return across all investments
 
-Risk-adjusted returns segmented by region
+    * Risk-adjusted returns segmented by region
 
-Investment distribution by asset class
+    * Investment distribution by asset class
 
-Average risk scores by asset type
+    * Average risk scores by asset type
 
-Comparative returns by region
+    * Comparative returns by region
 
 Designed with interactive slicers for dynamic filtering by Region, Year, and Asset Class, the dashboard enables clear, data-driven decision-making through intuitive visuals and comparative metrics.
 
