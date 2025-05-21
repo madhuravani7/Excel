@@ -1,7 +1,5 @@
 * Bike Sales - Sales<br/><br/>
-   I have worked on cleaning bike sales data, formatted it, added new columns and created pivot tables to easily visualize bike sales in the form of graphs like line and bar charts. Used slicers to dynamically
-   update the data for quick analysis. This did give me some major insights into bike sales on how avergae salary of user, age bracket and commute to work place increased the bike sales. This surely with help
-   in targeting certain audience to increase bike sales. <br/><br/>
+I worked on cleaning and formatting a bike sales dataset, adding calculated columns to enhance data analysis. Using Excel, I created pivot tables and visualized the data through line and bar charts. I also implemented slicers to enable dynamic filtering for quicker insights. This analysis revealed key factors influencing bike sales, such as average salary, age brackets, and commuting habits. These insights can be instrumental in identifying and targeting specific customer segments to boost sales. <br/><br/>
    Final dashboard ⬇ <br/><br/>
    ![BikeSalesdb](https://github.com/user-attachments/assets/295bd339-b8cc-47c8-9f2f-ff735133dd63)<br/><br/>
    
